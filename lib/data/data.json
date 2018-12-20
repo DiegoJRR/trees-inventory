@@ -1,0 +1,18 @@
+[
+  {
+    "especie": "palo blanco",
+    "tipo_tierra": "negra",
+    "tiempo_crec": 8,
+    "cuidados": "no pisarlo cuando hace mucho sol",
+    "frutos": "manzanas gigantes",
+    "tiempo_riego": 3
+  },
+  {
+    "especie": "buganbilia",
+    "tipo_tierra": "verde",
+    "tiempo_crec": 2.5,
+    "cuidados": "ninguno, todo aguanta",
+    "frutos": "alemendras toxicas",
+    "tiempo_riego": 900.23
+  }
+]
